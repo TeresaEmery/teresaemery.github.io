@@ -3,29 +3,29 @@ body{
 	}
 	
 	h1{
-	color:#00ff99;
+	color: black;
 	text-align: center;
 	font-size: 60px;
-	font-family: 'Ubuntu', sans-serif;
+	font-family: Helvetica, sans-serif;
 	}
 	
 	h2{
-	color:blue;
+	color:black;
 	text-align: center;
 	font-size: 40px;
-	font-family: 'Ubuntu', sans-serif;
+	font-family: Helvetica, sans-serif;
 	}
 	
 	p{
-	color: blue;
-	padding: 35px;
+	color: black;
+	padding: 0px;
 	text-align: center;
-	font-size: 50px;
-	font-family: 'Saira Semi Condensed', sans-serif;
+	font-size: 16px;
+	font-family: Helvetica, sans-serif;
 	}
 	
 	img{
-	padding: 50px
+	padding: 0px
 	}
 	
 	/* list */
@@ -33,29 +33,10 @@ body{
 		display: inline;
 		margin-right: 10px;
 		}
-		
-	/* unvisited link */
-	a:link {
-    color: red;
-	}
-
-	/* visited link */
-	a:visited {
-    color: green;
-	}
-
-	/* mouse over link */
-	a:hover {
-    color: blue;
-	}
-
-	/* selected link */
-	a:active {
-    color: blue;
-	}
 	
-	nav {
+	footer {
 		text-align: center;
+		font-family: Helvetica, sans-serif;
 		}
 		
 	
