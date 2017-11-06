@@ -28,6 +28,18 @@ body{
 	padding: 0px
 	}
 	
+	/* portfolio pages image formatting */
+	div.portfolio img {
+		display: block;
+		margin: auto;
+		}
+	
+	/* vimeo video formatting */
+	iframe {
+		display: block;
+		margin: auto;
+		}
+	
 	/* list */
 	li {
 		display: inline;
