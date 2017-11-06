@@ -27,20 +27,42 @@ body{
 	img{
 	padding: 0px
 	}
+
+/* Image Gallery */
+div.gallery {
+	display: block;
+	margin: auto;
+	padding: 15px;
+    border: 0px solid #ccc;
+    width: 50%;
+	}
+
+
+div.gallery img {
+	display: block;
+	margin: auto;
+    width: 80%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
 	
-	/* portfolio pages image formatting */
+/* portfolio pages image formatting */
 	div.portfolio img {
 		display: block;
 		margin: auto;
 		}
 	
-	/* vimeo video formatting */
+/* vimeo video formatting */
 	iframe {
 		display: block;
 		margin: auto;
 		}
 	
-	/* list */
+/* list */
 	li {
 		display: inline;
 		margin-right: 10px;
