@@ -41,7 +41,7 @@ div.gallery {
 div.gallery img {
 	display: block;
 	margin: auto;
-    width: 80%;
+    width: 75%;
     height: auto;
 }
 
@@ -51,9 +51,18 @@ div.desc {
 }
 	
 /* portfolio pages image formatting */
-	div.portfolio img {
+div.portfolio {
+	display: block;
+	margin: auto;
+	padding: 15px;
+    border: 0px solid #ccc;
+    width: 80%;
+	}
+	
+div.portfolio img {
 		display: block;
 		margin: auto;
+		width: 90%;
 		}
 	
 /* vimeo video formatting */
@@ -65,11 +74,12 @@ div.desc {
 /* list */
 	li {
 		display: inline;
-		margin-right: 10px;
+		margin-right: 20px;
 		}
 	
 	footer {
 		text-align: center;
+		font-size: 13px;
 		font-family: Helvetica, sans-serif;
 		}
 		
