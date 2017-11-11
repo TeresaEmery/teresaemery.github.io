@@ -68,7 +68,8 @@ div.portfolio img {
 div.statement p {
 	display: block;
 		margin: auto;
-		width: 65%;
+		text-align:justify;
+		width: 55%;
 		}
 	
 /* vimeo video formatting */
