@@ -1,0 +1,66 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="storieitaliane.html" resolutions="1x" timestamp="1513023201908">
+  <folder name="css">
+    <file name="site_global.css" crc="155653555"/>
+    <file name="perugia.css" crc="4170193331" ref="perugia"/>
+    <file name="perugia2.css" crc="4105267850" ref="perugia2"/>
+    <file name="genova.css" crc="50325826" ref="genova"/>
+    <file name="index.css" crc="51323527" ref="index"/>
+    <file name="toscana.css" crc="113307854" ref="toscana"/>
+    <file name="umbria.css" crc="458572141" ref="umbria"/>
+    <file name="genova2.css" crc="100881862" ref="genova2"/>
+    <file name="amalfi.css" crc="495403179" ref="amalfi"/>
+    <file name="firenze2.css" crc="495403179" ref="firenze2"/>
+    <file name="campania.css" crc="495403179" ref="campania"/>
+    <file name="camoglie.css" crc="4197212215" ref="camoglie"/>
+    <file name="liguria.css" crc="460902754" ref="liguria"/>
+    <file name="firenze.css" crc="495403179" ref="firenze"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:liguria:toscana:umbria:campania:genova:firenze:perugia:amalfi:firenze2:genova2:camoglie:perugia2"/>
+    <file name="museutils.js" crc="3803043152" ref="index:liguria:toscana:umbria:campania:genova:firenze:perugia:amalfi:firenze2:genova2:camoglie:perugia2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:liguria:toscana:umbria:campania:genova:firenze:perugia:amalfi:firenze2:genova2:camoglie:perugia2"/>
+    <file name="museconfig.js" crc="380897831" ref="index:liguria:toscana:umbria:campania:genova:firenze:perugia:amalfi:firenze2:genova2:camoglie:perugia2"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:liguria:toscana:umbria:campania:genova:firenze:perugia:amalfi:firenze2:genova2:camoglie:perugia2"/>
+    <file name="require.js" crc="4157109226" ref="index:liguria:toscana:umbria:campania:genova:firenze:perugia:amalfi:firenze2:genova2:camoglie:perugia2"/>
+  </folder>
+  <folder name="images">
+    <file name="italy_map_with_regions.svg" crc="87228391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="italy_map_with_regions_poster_.png" crc="139523563" ref="index"/>
+    <file name="img_20160121_163946.jpg" crc="4160736672" seo="true" ref="liguria">
+      <caption webpage="liguria" alt=""/>
+    </file>
+    <file name="sta_5358.jpg" crc="3919215453" seo="true" ref="toscana">
+      <caption webpage="toscana" alt=""/>
+    </file>
+    <file name="img_20170703_213909.jpg" crc="4080788202" seo="true" ref="umbria">
+      <caption webpage="umbria" alt=""/>
+    </file>
+    <file name="img_20160115_162333.jpg" crc="85462883" seo="true" ref="genova">
+      <caption webpage="genova" alt=""/>
+    </file>
+    <file name="img_20170707_220217.jpg" crc="3823990093" seo="true" ref="perugia">
+      <caption webpage="perugia" alt=""/>
+    </file>
+    <file name="img_20160122_163145.jpg" crc="383813571" seo="true" ref="genova2">
+      <caption webpage="genova2" alt=""/>
+    </file>
+    <file name="img_20170702_181133.jpg" crc="3997442705" seo="true" ref="perugia2">
+      <caption webpage="perugia2" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4042696470" seo="true" mt="1512977594245" redirect="true"/>
+  <file name="liguria.html" crc="4283648281" seo="true" mt="1512978053020" redirect="true"/>
+  <file name="toscana.html" crc="160919205" seo="true" mt="1512980408738" redirect="true"/>
+  <file name="umbria.html" crc="3804372229" seo="true" mt="1512979640020" redirect="true"/>
+  <file name="campania.html" crc="392576838" seo="true" mt="1512977594249" redirect="false"/>
+  <file name="genova.html" crc="4269092863" seo="true" mt="1512979586151" redirect="true"/>
+  <file name="firenze.html" crc="74458306" seo="true" mt="1512977594252" redirect="false"/>
+  <file name="perugia.html" crc="121974382" seo="true" mt="1512979840978" redirect="true"/>
+  <file name="amalfi.html" crc="316117817" seo="true" mt="1512977594256" redirect="false"/>
+  <file name="firenze2.html" crc="432357898" seo="true" mt="1512977594257" redirect="false"/>
+  <file name="genova2.html" crc="166551725" seo="true" mt="1512978244496" redirect="true"/>
+  <file name="camoglie.html" crc="4135179915" seo="true" mt="1512978971915" redirect="true"/>
+  <file name="perugia2.html" crc="261080215" seo="true" mt="1512979985425" redirect="true"/>
+</manifest>
