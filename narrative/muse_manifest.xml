@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="storieitaliane.html" resolutions="1x" timestamp="1513023201908">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="storieitaliane.html" resolutions="1x" timestamp="1513023969245">
   <folder name="css">
     <file name="site_global.css" crc="155653555"/>
     <file name="perugia.css" crc="4170193331" ref="perugia"/>
@@ -10,7 +10,7 @@
     <file name="genova2.css" crc="100881862" ref="genova2"/>
     <file name="amalfi.css" crc="495403179" ref="amalfi"/>
     <file name="firenze2.css" crc="495403179" ref="firenze2"/>
-    <file name="campania.css" crc="495403179" ref="campania"/>
+    <file name="campania.css" crc="113858200" ref="campania"/>
     <file name="camoglie.css" crc="4197212215" ref="camoglie"/>
     <file name="liguria.css" crc="460902754" ref="liguria"/>
     <file name="firenze.css" crc="495403179" ref="firenze"/>
@@ -49,12 +49,15 @@
     <file name="img_20170702_181133.jpg" crc="3997442705" seo="true" ref="perugia2">
       <caption webpage="perugia2" alt=""/>
     </file>
+    <file name="img_20170802_192615.jpg" crc="506842131" seo="true" ref="campania">
+      <caption webpage="campania" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4042696470" seo="true" mt="1512977594245" redirect="true"/>
   <file name="liguria.html" crc="4283648281" seo="true" mt="1512978053020" redirect="true"/>
   <file name="toscana.html" crc="160919205" seo="true" mt="1512980408738" redirect="true"/>
   <file name="umbria.html" crc="3804372229" seo="true" mt="1512979640020" redirect="true"/>
-  <file name="campania.html" crc="392576838" seo="true" mt="1512977594249" redirect="false"/>
+  <file name="campania.html" crc="255517208" seo="true" mt="1513023942372" redirect="true"/>
   <file name="genova.html" crc="4269092863" seo="true" mt="1512979586151" redirect="true"/>
   <file name="firenze.html" crc="74458306" seo="true" mt="1512977594252" redirect="false"/>
   <file name="perugia.html" crc="121974382" seo="true" mt="1512979840978" redirect="true"/>
