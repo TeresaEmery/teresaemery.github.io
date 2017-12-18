@@ -119,6 +119,9 @@
     <lastmod>2017-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://storieitaliane.html/images/20150222_135257.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://storieitaliane.html/firenze-loggia.html</loc>
