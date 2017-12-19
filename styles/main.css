@@ -1,6 +1,30 @@
 body{
 	background-color:white;
 	}
+
+/* unvisited link */
+a:link {
+    color: #22524C;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #03A694;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #851934;
+	text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #F24738;
+	text-decoration: underline;
+}
 	
 	h1{
 	color: black;
@@ -14,6 +38,7 @@ body{
 	text-align: center;
 	font-size: 30px;
 	font-family: Helvetica, sans-serif;
+	margin-bottom: 40px;
 	}
 	
 	p{
@@ -30,46 +55,88 @@ body{
 
 /* Image Gallery */
 div.gallery {
-	display: block;
-	margin: auto;
-	padding: 15px;
-    border: 0px solid #ccc;
-    width: 50%;
+	margin: 20px 10px;
+	float: left;
+    width: 29%;
+	height: auto;
 	}
 
-
 div.gallery img {
-	display: block;
-	margin: auto;
-    width: 75%;
+    width: 100%;
     height: auto;
 }
 
 div.desc {
     padding: 15px;
     text-align: center;
+	font-family: Helvetica, sans-serif;
+	
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px){
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .responsive {
+        width: 100%;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
 }
 	
+
+
 /* portfolio pages image formatting */
 div.portfolio {
 	display: block;
 	margin: auto;
 	padding: 15px;
-    border: 0px solid #ccc;
-    width: 80%;
+    width: 50%;
 	}
 	
 div.portfolio img {
 		display: block;
 		margin: auto;
-		width: 80%;
+		width: 75%;
+		}
+
+div.portfoliomontage {
+	display: block;
+	margin: auto;
+	padding: 15px;
+    width: 80%;
+	}
+	
+div.portfoliomontage img {
+		display: block;
+		margin: auto;
+		width: 75%;
 		}
 
 div.statement p {
 	display: block;
-		margin: auto;
+	margin: 25px auto;
 		text-align:justify;
 		width: 55%;
+		line-height: 125%;
 		}
 	
 /* vimeo video formatting */
@@ -79,14 +146,23 @@ div.statement p {
 		}
 	
 /* list */
-	li {
+
+div.footer{
+	clear: both;
+	margin-top: 60px;
+	margin-bottom: 50px;
+	border: 0px solid blue;
+}
+
+li {
 		display: inline;
 		margin-right: 20px;
 		}
 	
 	footer {
 		text-align: center;
-		font-size: 13px;
+		float: center;
+		font-size: 15px;
 		font-family: Helvetica, sans-serif;
 		}
 		
