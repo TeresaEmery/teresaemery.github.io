@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="storieitaliane.html" resolutions="1x" timestamp="1513675289918">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="storieitaliane.html" resolutions="1x" timestamp="1513712447115">
   <folder name="assets">
     <file name="cosmo_piurare.mp3" crc="259482592" seo="true" mt="1513669822000"/>
     <file name="gazebo.mp3" crc="424280339" seo="true" mt="1513670772000"/>
@@ -14,7 +14,7 @@
     <file name="perugia.css" crc="14765590" ref="perugia"/>
     <file name="perugia2.css" crc="510867189" ref="perugia2"/>
     <file name="index.css" crc="4222794031" ref="index"/>
-    <file name="toscana.css" crc="4003402913" ref="toscana"/>
+    <file name="toscana.css" crc="4184245017" ref="toscana"/>
     <file name="genova2.css" crc="484495516" ref="genova2"/>
     <file name="firenze2.css" crc="3881876428" ref="firenze2"/>
     <file name="campania.css" crc="4251181189" ref="campania"/>
@@ -24,7 +24,7 @@
     <file name="venezia.css" crc="4200735389" ref="venezia"/>
     <file name="firenze-loggia.css" crc="248920659" ref="firenze-loggia"/>
     <file name="mare-di-genova.css" crc="3889523332" ref="mare-di-genova"/>
-    <file name="firenze-santa-croce.css" crc="4180870116" ref="firenze-santa-croce"/>
+    <file name="firenze-santa-croce.css" crc="416304083" ref="firenze-santa-croce"/>
     <file name="roma.css" crc="440410343" ref="roma"/>
     <file name="venezia2.css" crc="329488168" ref="venezia2"/>
     <file name="salerno2.css" crc="286391107" ref="salerno2"/>
@@ -113,7 +113,7 @@
   </folder>
   <file name="index.html" crc="458602619" seo="true" mt="1513660733093" redirect="true"/>
   <file name="liguria.html" crc="47652105" seo="true" mt="1513674474186" redirect="true"/>
-  <file name="toscana.html" crc="4161821739" seo="true" mt="1513674133443" redirect="true"/>
+  <file name="toscana.html" crc="4185809918" seo="true" mt="1513712198848" redirect="true"/>
   <file name="campania.html" crc="395943641" seo="true" mt="1513673925984" redirect="true"/>
   <file name="firenze.html" crc="34777163" seo="true" mt="1513674225373" redirect="true"/>
   <file name="perugia.html" crc="131705521" seo="true" mt="1513675201788" redirect="true"/>
@@ -124,7 +124,7 @@
   <file name="venezia.html" crc="246801720" seo="true" mt="1513673246426" redirect="true"/>
   <file name="mare-di-genova.html" crc="84040497" seo="true" mt="1513672016352" redirect="true"/>
   <file name="firenze-loggia.html" crc="4264324047" seo="true" mt="1513674401745" redirect="true"/>
-  <file name="firenze-santa-croce.html" crc="121527625" seo="true" mt="1513663149510" redirect="true"/>
+  <file name="firenze-santa-croce.html" crc="231036777" seo="true" mt="1513712406407" redirect="true"/>
   <file name="salerno.html" crc="3965378805" seo="true" mt="1513675048669" redirect="true"/>
   <file name="venezia2.html" crc="4117474816" seo="true" mt="1513674639546" redirect="true"/>
   <file name="roma.html" crc="286643932" seo="true" mt="1513674866417" redirect="true"/>
