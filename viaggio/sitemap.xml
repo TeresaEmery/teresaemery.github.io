@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>http://storieitaliane.html/firenze2.html</loc>
-    <lastmod>2017-12-18</lastmod>
+    <lastmod>2017-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -25,15 +25,6 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://storieitaliane.html/images/img_20160122_163145.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://storieitaliane.html/camoglie.html</loc>
-    <lastmod>2017-12-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://storieitaliane.html/images/20150426_184540.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -82,6 +73,27 @@
     </image:image>
   </url>
   <url>
+    <loc>http://storieitaliane.html/salerno2.html</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://storieitaliane.html/images/img_20170802_193501-crop-u952.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://storieitaliane.html/firenze-santa-croce.html</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://storieitaliane.html/images/20150202_152950-crop-u753.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://storieitaliane.html/images/cartolina.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://storieitaliane.html/liguria.html</loc>
     <lastmod>2017-12-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -127,6 +139,42 @@
     </image:image>
   </url>
   <url>
+    <loc>http://storieitaliane.html/firenze-loggia.html</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://storieitaliane.html/images/20150408_185535.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://storieitaliane.html/salerno.html</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://storieitaliane.html/images/img_20170802_193822.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://storieitaliane.html/camoglie.html</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://storieitaliane.html/images/20150426_184540.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://storieitaliane.html/perugia2.html</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://storieitaliane.html/images/img_20170702_181133-crop-u385.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://storieitaliane.html/venezia.html</loc>
     <lastmod>2017-12-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -145,55 +193,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://storieitaliane.html/salerno2.html</loc>
-    <lastmod>2017-12-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://storieitaliane.html/images/img_20170802_193501-crop-u952.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://storieitaliane.html/perugia2.html</loc>
-    <lastmod>2017-12-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://storieitaliane.html/images/img_20170702_181133-crop-u385.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://storieitaliane.html/firenze-loggia.html</loc>
-    <lastmod>2017-12-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://storieitaliane.html/images/20150408_185535.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://storieitaliane.html/firenze-santa-croce.html</loc>
-    <lastmod>2017-12-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://storieitaliane.html/images/20150202_152950-crop-u753.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://storieitaliane.html/images/cartolina.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://storieitaliane.html/salerno.html</loc>
-    <lastmod>2017-12-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://storieitaliane.html/images/img_20170802_193822.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://storieitaliane.html/assets/cosmo_piurare.mp3</loc>
+    <loc>http://storieitaliane.html/assets/fiorellamannoia.mp3</loc>
     <lastmod>2017-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -205,26 +205,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://storieitaliane.html/assets/chakra.mp3</loc>
+    <loc>http://storieitaliane.html/assets/icani_finira.mp3</loc>
     <lastmod>2017-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://storieitaliane.html/assets/fiorellamannoia.mp3</loc>
-    <lastmod>2017-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://storieitaliane.html/assets/germano.mp3</loc>
-    <lastmod>2017-12-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://storieitaliane.html/assets/motta.mp3</loc>
-    <lastmod>2017-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -235,8 +217,32 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://storieitaliane.html/assets/germano.mp3</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://storieitaliane.html/assets/chakra.mp3</loc>
+    <lastmod>2017-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://storieitaliane.html/assets/cosmo_piurare.mp3</loc>
+    <lastmod>2017-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://storieitaliane.html/assets/mina_annodamore.mp3</loc>
     <lastmod>2017-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://storieitaliane.html/assets/motta.mp3</loc>
+    <lastmod>2017-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

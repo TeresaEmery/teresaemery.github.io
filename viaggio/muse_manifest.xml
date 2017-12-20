@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="storieitaliane.html" resolutions="1x" timestamp="1513732524017">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="storieitaliane.html" resolutions="1x" timestamp="1513801987060">
   <folder name="assets">
     <file name="cosmo_piurare.mp3" crc="259482592" seo="true" mt="1513669822000"/>
     <file name="gazebo.mp3" crc="424280339" seo="true" mt="1513670772000"/>
@@ -8,6 +8,7 @@
     <file name="chakra.mp3" crc="448153488" seo="true" mt="1513669481000"/>
     <file name="germano.mp3" crc="3771651008" seo="true" mt="1513670930000"/>
     <file name="fiorellamannoia.mp3" crc="270905637" seo="true" mt="1513670323000"/>
+    <file name="icani_finira.mp3" crc="121597951" seo="true" mt="1513669989000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3857635867"/>
@@ -16,7 +17,7 @@
     <file name="index.css" crc="3911471906" ref="index"/>
     <file name="toscana.css" crc="216422707" ref="toscana"/>
     <file name="genova2.css" crc="484495516" ref="genova2"/>
-    <file name="firenze2.css" crc="3881876428" ref="firenze2"/>
+    <file name="firenze2.css" crc="4270780766" ref="firenze2"/>
     <file name="campania.css" crc="95443524" ref="campania"/>
     <file name="camoglie.css" crc="384289105" ref="camoglie"/>
     <file name="liguria.css" crc="4060111113" ref="liguria"/>
@@ -117,7 +118,7 @@
   <file name="campania.html" crc="3851797143" seo="true" mt="1513719529098" redirect="true"/>
   <file name="firenze.html" crc="4027174174" seo="true" mt="1513718363402" redirect="true"/>
   <file name="perugia.html" crc="3795677743" seo="true" mt="1513720553102" redirect="true"/>
-  <file name="firenze2.html" crc="4126742425" seo="true" mt="1513663083619" redirect="true"/>
+  <file name="firenze2.html" crc="3790250101" seo="true" mt="1513801972190" redirect="true"/>
   <file name="genova2.html" crc="239551364" seo="true" mt="1513720447882" redirect="true"/>
   <file name="camoglie.html" crc="522770513" seo="true" mt="1513718998055" redirect="true"/>
   <file name="perugia2.html" crc="4271530592" seo="true" mt="1513719087547" redirect="true"/>
